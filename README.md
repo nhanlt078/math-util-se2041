@@ -6,6 +6,10 @@
 * A CI (Coutinuous Integration) script using GitHub Actions
 *...
 
-#### Connect me vid: hoangnt20@fe.edu.vn
+###Screen-shots
+![JUnit with TDD, DDT](https://github.com/nhanlt078/math-util-se2041/blob/master/screen-shots/Untitled.png)
+
+
+#### Connect me vid: letrongnhan241205@gmail.com
 
 #### &#169; 2026 nhanlt
