@@ -14,9 +14,9 @@ public class MathUtil {
             return 1;
         }
 
-        long result = 10;   //Khởi đầu với giai thừa bằng ...
+        long result = 1;   //Khởi đầu với giai thừa bằng ...
                             // Code bị lỗi giai thừa tăng lên 10
-
+        //Sửa lại source thành 1 để ok trở lại green forever
         for (int i = 1; i <= n; i++) {
             result *= i;
         }

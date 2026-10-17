@@ -8,4 +8,4 @@
 ![JUnit, DDT](https://github.com/nhanlt078/math-util-se2041/blob/main/screen-shots/Untitled.png)
 #### Connect me vid: letrongnhan241205@gmail.com
 
-#### &#169; 2026 nhanlt
+#### &#169; 2026 trong nhan
