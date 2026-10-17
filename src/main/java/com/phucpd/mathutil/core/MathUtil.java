@@ -14,7 +14,8 @@ public class MathUtil {
             return 1;
         }
 
-        long result = 1;
+        long result = 10;   //Khởi đầu với giai thừa bằng ...
+                            // Code bị lỗi giai thừa tăng lên 10
 
         for (int i = 1; i <= n; i++) {
             result *= i;
