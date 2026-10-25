@@ -1,4 +1,4 @@
-package com.phucpd.mathutil.core;
+package com.letrongnhan.mathutil.core;
 
 public class MathUtil {
 

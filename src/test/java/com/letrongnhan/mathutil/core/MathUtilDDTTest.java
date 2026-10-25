@@ -1,4 +1,4 @@
-package com.phucpd.mathutil.core;
+package com.letrongnhan.mathutil.core;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;

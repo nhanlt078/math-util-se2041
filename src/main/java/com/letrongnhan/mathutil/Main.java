@@ -1,6 +1,6 @@
-package com.phucpd.mathutil;
+package com.letrongnhan.mathutil;
 
-import com.phucpd.mathutil.core.MathUtil;
+import com.letrongnhan.mathutil.core.MathUtil;
 
 public class Main {
     static void main() {
